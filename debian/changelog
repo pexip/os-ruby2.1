@@ -1,3 +1,17 @@
+ruby2.1 (2.1.5-2+deb8u3pexip3) pexip; urgency=low
+
+  * Backport fix for CVE-2017-0898
+  * Backport fix for CVE-2017-0900
+  * Backport fix for CVE-2017-0901
+  * Backport fix for CVE-2017-0902
+  * Backport fix for CVE-2017-0903
+  * Backport fix for CVE-2017-10784
+  * Backport fix for CVE-2017-14033
+  * Backport fix for CVE-2017-14064
+  * Backport fix for CVE-2017-17405
+
+ -- John-Mark Bell <jmb@pexip.com>  Mon, 15 Jan 2018 16:09:28 +0000
+
 ruby2.1 (2.1.5-2+deb8u3pexip2) pexip; urgency=low
 
   * debian/rules: Use builtin digest implementations

@@ -2,3 +2,13 @@ debian-changes
 CVE-2009-5147.patch
 CVE-2015-7551.patch
 no_sslv3.patch
+CVE-2017-0898.patch
+CVE-2017-0900.patch
+CVE-2017-0901.patch
+CVE-2017-0902.patch
+CVE-2017-0903.patch
+CVE-2017-10784.patch
+CVE-2017-14033.patch
+CVE-2017-14064.patch
+CVE-2017-17405-a.patch
+CVE-2017-17405-b.patch

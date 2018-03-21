@@ -1,3 +1,15 @@
+ruby2.1 (2.1.5-2+deb8u3pexip4) pexip; urgency=low
+
+  * Backport fix for CVE-2018-1000073
+  * Backport fix for CVE-2018-1000074
+  * Backport fix for CVE-2018-1000075
+  * Backport fix for CVE-2018-1000076
+  * Backport fix for CVE-2018-1000077
+  * Backport fix for CVE-2018-1000078
+  * Backport fix for CVE-2018-1000079
+
+ -- John-Mark Bell <jmb@pexip.com>  Wed, 21 Mar 2018 21:06:04 +0000
+
 ruby2.1 (2.1.5-2+deb8u3pexip3) pexip; urgency=low
 
   * Backport fix for CVE-2017-0898
